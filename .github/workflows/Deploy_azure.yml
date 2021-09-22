@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_FUNCTIONAPP_NAME: Cosmos
+  AZURE_FUNCTIONAPP_NAME: CosmosAssignment
   AZURE_FUNCTIONAPP_PACKAGE_PATH: "."
   ROOT_SOLUTION_PATH: "."
   DOTNET_VERSION: "3.1"
