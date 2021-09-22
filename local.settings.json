@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=cosmosassignment;AccountKey=3962mCtfUwtmmekdbEqVEElMAtKx1DJ6UKXoHl+9/tilCacHQ2bpPSYQpIozpyi1kCT0tU/a+oXsshzfCnxVag==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=cosmosassignment;AccountKey=3962mCtfUwtmmekdbEqVEElMAtKx1DJ6UKXoHl+9/tilCacHQ2bpPSYQpIozpyi1kCT0tU/a+oXsshzfCnxVag==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "cosmosassignmente177e6",
+    "WEBSITE_RUN_FROM_PACKAGE": "1",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "1183ec9b-000d-4baa-b70a-c5014a25beb4",
+    "CosmosDbConnectionString": "AccountEndpoint=https://cosmosdbfunctions.documents.azure.com:443/;AccountKey=wIXAbqGbiqu0DHCOYXT5iSR2wgTIBGyAy6qUltJL6s4bPfjff9QF4iCuBLnxPNYBmCiG0pzzEy7vcYZL52gf6Q=="
+  }
+}
